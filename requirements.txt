@@ -1,0 +1,9 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+yfinance==0.2.36
+langgraph==0.0.26
+langchain-google-genai==0.0.9
+langchain-tavily==0.0.1
+supabase==2.3.4
+python-dotenv==1.0.1
+pydantic==2.6.1
